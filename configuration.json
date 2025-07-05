@@ -1,0 +1,16 @@
+{
+  "controllers": {
+    "807b64d0-c6b0-4b54-8e92-a42c6242ffe5": {
+      "name": "Sypialnia",
+      "pin": 1
+    },
+    "d2f3c5b1-8e4a-4b6a-9c7f-8b0d1e2f3a4b": {
+      "name": "Salon",
+      "pin": 2
+    },
+    "a1b2c3d4-e5f6-7g8h-9i0j-k1l2m3n4o5p6": {
+      "name": "Kuchnia",
+      "pin": 3
+    }
+  }
+}
